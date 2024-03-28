@@ -35,4 +35,5 @@ class InfiniteLogoScroll {
     }
 }
 
-const partners = new InfiniteLogoScroll('.partners-list', 10);
+// Usage
+// const partners = new InfiniteLogoScroll('.partners-list', 10);
